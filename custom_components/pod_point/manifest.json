@@ -568,7 +568,7 @@
   "issue_tracker": "https://github.com/NikNakk/pod-point-home-assistant-component/issues",
   "quality_scale": "silver",
   "requirements": [
-    "podpointclient-niknakk==2.0.0b2"
+    "podpointclient-niknakk @ https://github.com/Tirzono/podpointclient/archive/d6c910ecf54412ca2895d0f22bacf4f2d33897d5.tar.gz"
   ],
   "version": "3.0.0-beta.8"
 }
